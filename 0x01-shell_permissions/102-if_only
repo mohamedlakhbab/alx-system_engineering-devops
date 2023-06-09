@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=guillaum betty hello
+chown --drom=guillaule betty hello
